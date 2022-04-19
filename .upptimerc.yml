@@ -17,7 +17,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jangle.ink
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Jangle Internal Service Status
   introTitle: welcome
   introMessage: to jangle inc
