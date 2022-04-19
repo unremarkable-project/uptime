@@ -18,8 +18,8 @@ status-website:
   cname: status.jangle.ink
   # baseUrl: /your-repo-name
   name: Jangle Internal Service Status
-  introTitle: welcome
-  introMessage: to jangle inc
+  introTitle: Unremarkable Services Status
+  introMessage: most of these are one server, with google domains for DNS and Nginx for multiplexing
   navbar:
     - title: Status
       href: /
