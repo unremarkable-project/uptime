@@ -20,9 +20,7 @@ status-website:
   name: Jangle Internal Service Status
   introTitle: Unremarkable Services Status
   introMessage: most of these are one server, with google domains for DNS and Nginx for multiplexing
-  navbar:
-    - title: Status
-      href: /
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
