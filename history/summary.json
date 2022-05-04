@@ -22,19 +22,19 @@
     "url": "https://mailgun.com",
     "icon": "https://favicons.githubusercontent.com/mailgun.com",
     "slug": "mail-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 200,
-    "timeWeek": 340,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 631,
+    "timeDay": 194,
+    "timeWeek": 323,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2022-05-04": 0
+      "2022-05-04": 44
     }
   },
   {
