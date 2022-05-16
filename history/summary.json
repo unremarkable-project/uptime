@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/mailgun.com",
     "slug": "mail-server",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 824,
     "timeDay": 5291,
     "timeWeek": 1810,
@@ -42,9 +42,9 @@
     "url": "http://files.jangle.ink",
     "icon": "https://favicons.githubusercontent.com/files.jangle.ink",
     "slug": "file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 548,
     "timeMonth": 553,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-16": 0
+    }
   },
   {
     "name": "Web Server",
