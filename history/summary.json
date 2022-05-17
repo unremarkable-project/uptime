@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 344,
-    "timeWeek": 332,
+    "timeDay": 320,
+    "timeWeek": 331,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 824,
-    "timeDay": 5291,
-    "timeWeek": 1810,
-    "timeMonth": 824,
-    "timeYear": 824,
+    "time": 804,
+    "timeDay": 152,
+    "timeWeek": 1057,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2022-05-04": 44
     }
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/files.jangle.ink",
     "slug": "file-server",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 549,
-    "timeDay": 598,
-    "timeWeek": 533,
-    "timeMonth": 549,
-    "timeYear": 549,
-    "dailyMinutesDown": {
-      "2022-05-16": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 554,
+    "timeDay": 559,
+    "timeWeek": 568,
+    "timeMonth": 554,
+    "timeYear": 554,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Server",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 104,
-    "timeWeek": 217,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 210,
+    "timeDay": 98,
+    "timeWeek": 199,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
