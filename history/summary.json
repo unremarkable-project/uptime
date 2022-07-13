@@ -22,7 +22,7 @@
     "url": "https://mailgun.com",
     "icon": "https://favicons.githubusercontent.com/mailgun.com",
     "slug": "mail-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1127,
     "timeYear": 817,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-05-04": 44
     }
   },
